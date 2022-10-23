@@ -1,0 +1,38 @@
+.wlp-bighorn-titlebar {
+    overflow: hidden;
+    border-bottom: none;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: #2270a1;
+    width: auto;
+    width: 800px;
+    height: 30.78;
+    padding-bottom: 0px;
+}
+.wlp-bighorn-titlebar-title-panel {
+    font-size: 1.14em;
+    font-weight: normal;
+}
+#demandCodeConfidentiel_3 .wlp-bighorn-titlebar{
+    text-align: center;
+}
+
+.wlp-bighorn-titlebar {
+    overflow: hidden;
+    border-bottom: 1px solid #bfbfbf;
+    padding-bottom: 0.5em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  
+}
+.wlp-bighorn-titlebar-title-panel {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.border{
+    margin-right: 20px !important;
+}
+

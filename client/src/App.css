@@ -1,0 +1,220 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+.wlp-bighorn-titlebar{
+  margin-block-end: 4px;
+  
+} 
+h2.wlp-bighorn-titlebar-title-panel {
+  margin-bottom: -1px;
+}
+
+
+.txt_milieu {
+  text-align: center;
+}
+.r_btretour {
+  
+  background-image: none;
+  border: 1px solid #2c9ad2;
+  border-radius: 0;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: normal;
+  line-height: 1.42857;
+  padding: 6px 12px;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  letter-spacing: .1em;
+  margin: 5px;
+  min-width: 30%;
+  background-color: #fff;
+  color: #2c9ad2;
+}
+.r_btsubmit{
+  
+    background-color: #2c9ad2;
+    color: #fff;
+    background-image: none;
+    border: 1px solid #2c9ad2;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    margin: 5px;
+    min-width: 30%;
+    border-bottom: none;
+    width: 192px;
+  
+}
+
+/* important */
+.container{
+  margin-bottom: -9px !important ;
+  margin-left: 87px;
+}
+* {
+  font-family: "Helvetica Neue",Helvetica,Arial,FreeSans,sans-serif;
+  box-sizing: border-box;
+}
+.exclamation{
+  color: #2c9ad2;
+  margin-left: 4px;
+  font-size: 14px;
+}
+.calander{
+  color: #2c9ad2;
+  margin-left: 4px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+button#demandCodeConfidentiel_3id_r_cnx_btn_submit{
+  background-color: #2c9ad2;
+  color: #fff;
+  background-image: none;
+  border: 1px solid #2c9ad2;
+  border-radius: 0;
+  cursor: pointer;
+  display: inline-block !important;
+  font-size: 1em !important;
+  font-weight: normal !important;
+  line-height: 1.42857 !important;
+  padding: 6px 12px !important;
+  text-align: center;
+  vertical-align: middle !important;
+  white-space: nowrap !important;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin: 5px !important;
+  min-width: 30% !important;
+}
+
+button {
+  background: none;
+  border: none;
+  max-width: 100%;
+}
+label#demandCodeConfidentiel_3labelniras {
+  font-size: 14px;
+  font-weight: normal;
+}
+label#demandCodeConfidentiel_3labelddn {
+  font-size: 14px;
+  font-weight: normal;
+}
+fieldset.test {
+  padding-top: 5px !important;
+  height: 274px !important;
+ 
+}
+h2.wlp-bighorn-titlebar-title-panel {
+  margin-right: 68px;
+}
+
+.cal {
+  margin-left: 213px;
+  margin-top: -1px;
+}
+
+a.r_btretour.r_btlien.submit {
+  border: none;
+}
+
+button.red.btn.btn-primary {
+  background: green !important;
+  border-radius: 8px;
+}
+
+button.btn.btn-primary {
+  border-radius: 8px;
+}
+.r_ddc_envoi_mail {
+  margin-left: -68px;
+}
+
+h2.titre {
+  margin-left: -73px;
+}
+
+.information{
+  background: #2d5e84;
+  color: white;
+  margin-left: 1px;
+  margin-right: 1px;
+  border-radius: 10px;
+}
+.modal-title.h4 {
+  color: #2d5e84 !important;
+  
+}
+.exclamation{
+  cursor: pointer;
+}
+.r_ddc_envoi_mail {
+  margin-left: -69px !important;
+}
+h2.titre {
+  margin-left: -68px !important;
+}
+.wlp-bighorn-titlebar {
+  width: 871px !important;
+  margin-left: -101px !important;
+}
+h2.wlp-bighorn-titlebar-title-panel {
+  margin-left: 52px;
+}
+
+.tetiere .bandeau {
+  height: 36px;
+  background-color: #0057a0;
+  width: 100% !important;
+}

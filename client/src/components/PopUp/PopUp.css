@@ -1,0 +1,145 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+.modal-confirm {	
+    color: #8e8e8e;
+    width: 450px;
+    margin: 30px auto;
+}
+.modal-confirm .modal-content {
+    padding: 20px;
+    border-radius: 5px;		
+    border: none;
+}
+.modal-confirm .modal-header {
+    border-bottom: none;   
+    position: relative;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+}
+.modal-confirm h4 {
+    color: #545557;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 0 25px;
+}
+.modal-confirm .form-control, .modal-confirm .btn {
+    min-height: 40px;
+    border-radius: 3px; 
+}
+.modal-confirm .close {
+    background: #c0c3c8;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: #fff;
+    text-shadow: none;
+    opacity: 0.5;
+    width: 22px;
+    height: 22px;
+    border-radius: 20px;
+    font-size: 16px;
+}
+.modal-confirm .close span {
+    position: relative;
+    top: -1px;
+}
+.modal-confirm .close:hover {
+    opacity: 0.8;
+}
+.modal-confirm .icon-box {
+    color: #f95858;		
+    display: inline-block;
+    z-index: 9;
+    text-align: center;
+    position: relative;
+    transform: scale(1.5);
+}
+.modal-confirm .icon-box i:first-child {
+    font-size: 100px;
+}
+.modal-confirm .icon-box i:nth-child(2) {
+    font-size: 138px;
+    position: absolute;
+    left: -19px;
+    top: -23px;
+    font-weight: bold;
+    color: #fff;
+}
+.modal-confirm .icon-box i:last-child {
+    font-size: 26px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 44px;
+}
+.modal-confirm .btn {
+    color: #fff;
+    border-radius: 4px;
+    background: #eeb711;
+    text-decoration: none;
+    transition: all 0.4s;
+    line-height: normal;
+    border-radius: 3px;
+    margin: 30px 0 20px;
+    padding: 6px 20px;
+    min-width: 150px;
+    border: none;
+}
+.modal-confirm .btn:hover, .modal-confirm .btn:focus {
+   
+    outline: none;
+}
+.trigger-btn {
+    display: inline-block;
+    margin: 100px auto;
+}
+
+a {
+    color: #0062ad;
+    text-decoration: none;
+    cursor: pointer;
+    border-bottom:none;
+}
+.modal-content {
+    width: 625px;
+}
+button.btn.btn {
+    margin-right: 28px;
+    background: red ;
+}
+.red{
+    background: #eda645 !important;
+}
+
+
+/* nous termine */
+.modal-container{
+    display: flex;
+}
+img.img-modal {
+    width: 169px;
+    height: 174px;
+    margin-top: -29px;
+    margin-left: -28px;
+}
+.modal-body.text-center {
+    margin-left: -26px;
+}
+.danger{
+    display: flex;
+}
+i.triangle.fas.fa-exclamation-triangle {
+    width: 68px;
+    color: red;
+    font-size: 47px;
+}
+.modal-content {
+    margin-left: -148px;
+    width: 682px;
+}
+.pop-up-text{
+    text-align: start;
+    margin-left: 37px;
+}

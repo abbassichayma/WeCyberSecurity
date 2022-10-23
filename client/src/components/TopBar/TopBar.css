@@ -1,0 +1,85 @@
+* {
+  font-family: "Helvetica Neue",Helvetica,Arial,FreeSans,sans-serif;
+  box-sizing: border-box;
+}
+.tetiere {
+  height: 85px;
+  text-align: center;
+  background-color: white;
+}
+div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    /* vertical-align: baseline; */
+    
+}
+
+body {
+  margin: 0 auto 0;
+  width: 100%;
+  height: 100%;
+  line-height: 1.42857;
+  
+}
+
+.tetiere .bandeau {
+  height: 36px;
+  background-color: #0057a0;
+}
+.tetiere .titreHeader {
+  float: left;
+  font-size: 1.8em;
+  color: white;
+  padding-left: 10px;
+  font-style: italic;
+  position: relative;
+  height: 36px;
+  font-weight: bold;
+  font-size: 23px;
+}
+.tetiere .logoam {
+  margin-top: -36px;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  border-radius: 0 0 10px 10px;
+  background-color: white;
+}
+a img {
+  border: 0;
+}
+img{
+  margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+a {
+  color: #0062ad;
+  text-decoration: none;
+    cursor: pointer;
+    border-bottom: dotted 1px
+}
+div.tetiere{
+  color: #000000;
+  font: 14px;
+  background: #FFFFFF;
+}
+DIV.bandeau{
+  color: #000000;
+  font: 14px;
+  background: #0057A0;
+}
+span.titreHeader{
+  color: FFFFFF;
+  font: 25.2px;
+padding: 0px 0px 0px 10px;
+
+}
+.img.logoam{
+  background: #FFFFFF;
+  margin: -36px 0px 0px;
+}
